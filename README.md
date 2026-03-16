@@ -2,9 +2,10 @@
 
 Este projeto demonstra o uso de **membros estáticos** em Java, separando a lógica de negócio da interface de usuário. É um exercício prático de Geometria que calcula a circunferência e o volume de uma esfera com base em um raio fornecido.
 
-## 🚀 Tecnologias
-- Java
-- Programação Orientada a Objetos (POO)
+## 🛠️ Tecnologias e Ferramentas
+- Java 17 (ou a versão que você usou)
+- Git & GitHub
+- Eclipse IDE
 
 ## 📌 Conceitos Aplicados
 - **Membros Estáticos:** Uso da palavra-chave `static` para métodos e constantes que não dependem de instâncias de objetos.
